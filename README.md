@@ -1,2 +1,2 @@
-# Asura
-An experimental game play of fighter jets
+# Myrio
+A simple game based on Popular character.
